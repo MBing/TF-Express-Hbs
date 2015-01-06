@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MBing",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.7",
+    "express-handlebars": "^1.1.0"
+  }
+}
